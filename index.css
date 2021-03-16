@@ -1,0 +1,74 @@
+html{
+    scroll-behavior: smooth;
+}
+
+header{
+    font-style: italic;
+    font-weight: bold;
+    margin: 60px auto;
+    border: 5px solid;
+    border-radius: 100px;
+    
+} 
+    
+.linear-gradient{
+    background: linear-gradient(white,#E8D2D2);
+}
+#body{
+    display: flex;
+    
+
+}
+
+#links{
+    margin: 100px auto;
+    color: #655D5D;
+   
+}
+
+#Linkedin{
+    border: 5px solid;
+    border-radius: 100px;
+    margin: 10px auto;
+    
+
+}
+
+
+#GitHub{
+    border: 5px solid;
+    border-radius: 100px;
+    margin: 10px auto;
+    
+}
+
+
+#Instagram{
+    border: 5px solid;
+    border-radius: 100px;
+    margin: 10px auto;
+    
+}
+
+#Facebook{
+    border: 5px solid;
+    border-radius: 100px;
+    margin: 10px auto;
+    
+}
+
+#Twitter{
+    border: 5px solid;
+    border-radius: 100px;
+    margin: 10px auto;
+
+
+}
+
+img{
+    filter: drop-shadow(2px 4px 8px #585858)
+}
+
+a:hover{
+    color: #585858;
+}
